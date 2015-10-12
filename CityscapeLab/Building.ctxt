@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=p\ x\ w\ h
+comment0.target=Building(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Building\r\n\ takes\ parameters\ and\ stores\ them\ into\ instance\ variables\r\n\ @pre\ 4\ integer\ parameters\r\n\ @post\ instances\ of\ the\ buidling\ class\ can\ be\ created\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+numComments=2
